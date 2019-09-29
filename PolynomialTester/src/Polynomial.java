@@ -1,9 +1,4 @@
 /* Name:Charles King
-   PID:5961386
-   Section Number:COP337 U05
-   I affirm that this program is entirely my own work 
-   and none of it is the work of any other person.
-        Signature:Charles David King
    File: Polynomial.java
 
    Disclaimer:This polynomial class was given to me by the professor from the 
